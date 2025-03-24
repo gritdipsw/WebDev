@@ -1,2 +1,4 @@
 WebDev
-Feature-A is completed now.
+QR is completed.
+Invoice.py is done.
+
